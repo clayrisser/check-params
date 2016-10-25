@@ -38,7 +38,7 @@ module.exports = {
 ```
 
 Now, if I enter the following url . . .
-```
+```url
 http://myserver.com/example?hello=world&foo=bar
 ```
 . . . I get the following response.
@@ -49,11 +49,11 @@ http://myserver.com/example?hello=world&foo=bar
 ```
 
 However, if I enter the following url, without the query params . . .
-```
+```url
 http://myserver.com/example
 ```
 . . . I get the following response.
-```
+```json
 {
     "message": "You are missing the query params 'hello', and 'foo'."
 }
@@ -65,7 +65,7 @@ If you do not put in the required parameters, you will get a response asking for
 ## More Details
 
 The checkParams function recieves three properties. The last property, options, is optional.
-```
+```js
 checkParams(
     req, // the request object
     {
