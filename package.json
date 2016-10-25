@@ -1,6 +1,6 @@
 {
   "name": "check-params",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Validates url, body, and query parameters for Express and sailsJS",
   "homepage": "https://github.com/jamrizzi/query-params",
   "author": {
