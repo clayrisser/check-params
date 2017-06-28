@@ -1,5 +1,7 @@
 # check-params
 
+![https://img.shields.io/npm/v/check-params.svg](https://www.npmjs.com/package/check-params)![https://img.shields.io/npm/dt/check-params.svg](https://www.npmjs.com/package/check-params)
+
 Validates url, body, and query parameters for Express
 
 Please &#9733; this repo if you found it useful &#9733; &#9733; &#9733;
