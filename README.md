@@ -1,6 +1,6 @@
 # check-params
 
-[![npm](https://img.shields.io/npm/v/check-params.svg?style=flat-square)](https://www.npmjs.com/package/check-params)[![npm](https://img.shields.io/npm/dt/check-params.svg?style=flat-square)](https://www.npmjs.com/package/check-params)
+[![npm](https://img.shields.io/npm/v/check-params.svg?style=flat-square)](https://www.npmjs.com/package/check-params) [![npm](https://img.shields.io/npm/dt/check-params.svg?style=flat-square)](https://www.npmjs.com/package/check-params)
 
 Validates url, body, and query parameters for Express
 
