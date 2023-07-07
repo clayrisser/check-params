@@ -6,6 +6,8 @@ Validates url, body, and query parameters for Express
 
 Please &#9733; this repo if you found it useful &#9733; &#9733; &#9733;
 
+![](assets/check-params.png)
+
 
 ## Features
 
